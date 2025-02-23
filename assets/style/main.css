@@ -2002,7 +2002,7 @@ background-color:var(--brand--neutrals--transparent);flex-wrap:nowrap;justify-co
 }
 
 .nav-logo {
-color:var(--brand--neutrals--white);flex-direction:row;justify-content:flex-start;align-items:center;width:100%;max-width:7rem;min-height:135px;max-height:150px;margin-top:auto;margin-bottom:auto;font-size:1.2rem;line-height:1.5em;text-decoration:none;display:flex
+color:var(--brand--neutrals--white);flex-direction:row;justify-content:flex-start;align-items:center;width:100%;max-width:7rem;min-height:20px;max-height:150px;margin-top:auto;margin-bottom:auto;font-size:1.2rem;line-height:1.5em;text-decoration:none;display:flex
 }
 
 .nav-logo:hover {
@@ -3588,6 +3588,10 @@ height:auto;min-height:4rem
 
 .nav-logo {
 max-width:6.5rem
+}
+
+.nav-logo-image{
+width: 60%;
 }
 
 .slide-nav {
